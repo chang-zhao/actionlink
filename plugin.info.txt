@@ -1,0 +1,7 @@
+base   actionlink
+author nowotny
+email  nowotnypl@gmail.com
+date   2018-02-04
+name   Action Link plugin
+desc   Lets you use action links in your wiki syntax
+url    https://www.dokuwiki.org/plugin:actionlink
